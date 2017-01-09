@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuzzWordGame/BuzzWordGame.iml" filepath="$PROJECT_DIR$/BuzzWordGame/BuzzWordGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSE219Projectpart2.iml" filepath="$PROJECT_DIR$/CSE219Projectpart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controller/Controller.iml" filepath="$PROJECT_DIR$/Controller/Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Layout/Layout.iml" filepath="$PROJECT_DIR$/Layout/Layout.iml" />
+    </modules>
+  </component>
+</project>
